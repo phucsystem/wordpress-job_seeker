@@ -1,1 +1,1 @@
-# wordpress-job_seeker
+# A Job seeker site based on wordpress platform
